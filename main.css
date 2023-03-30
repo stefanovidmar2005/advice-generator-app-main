@@ -145,3 +145,8 @@ body {
   transform: translateY(-3px);
   box-shadow: 0 0 35px rgba(82, 255, 168, 0.7);
 }
+@media screen and (min-width: 768px) {
+  body {
+    align-items: center;
+  }
+}
